@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="quoe/quoe.vcxproj" Id="c4c6d8aa-1c1b-4a78-a39f-dff4ddcc5ba6" />
+</Solution>
